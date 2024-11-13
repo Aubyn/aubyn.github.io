@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.D4Ss6-bc.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tool/feedback.md","filePath":"tool/feedback.md"}'),o={name:"tool/feedback.md"};function c(r,s,n,d,f,p){return a(),t("div")}const l=e(o,[["render",c]]);export{i as __pageData,l as default};
