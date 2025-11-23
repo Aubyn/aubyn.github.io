@@ -1,0 +1,18 @@
+{
+	"days": [
+		{ "name": "New Year", "date": "2025-01-01", "isOffDay": true },
+		{ "name": "Makar Sankranthi", "date": "2025-01-14", "isOffDay": true },
+		{ "name": "Maha Shivaratri", "date": "2025-02-26", "isOffDay": true },
+		{ "name": "Holi", "date": "2025-03-13", "isOffDay": true },
+		{ "name": "Ramazan Eid", "date": "2025-03-31", "isOffDay": true },
+		{ "name": "Good Friday", "date": "2025-04-18", "isOffDay": true },
+		{ "name": "May Day", "date": "2025-05-01", "isOffDay": true },
+		{ "name": "Independence Day", "date": "2025-08-15", "isOffDay": true },
+		{ "name": "Ganesh Chaturthi", "date": "2025-08-27", "isOffDay": true },
+		{ "name": "Eid Milad", "date": "2025-09-05", "isOffDay": true },
+		{ "name": "Vijayadashami", "date": "2025-10-01", "isOffDay": true },
+		{ "name": "Gandhi Jayanthi", "date": "2025-10-02", "isOffDay": true },
+		{ "name": "Deepavali", "date": "2025-10-22", "isOffDay": true },
+		{ "name": "Christmas", "date": "2025-12-25", "isOffDay": true }
+	]
+}
