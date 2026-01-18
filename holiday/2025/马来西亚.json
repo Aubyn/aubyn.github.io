@@ -1,0 +1,23 @@
+{
+	"days": [
+		{ "name": "New Year's Day", "date": "2025-01-01", "isOffDay": true },
+		{ "name": "Chinese New Year", "date": "2025-01-29", "isOffDay": true },
+		{ "name": "Chinese New Year Holiday", "date": "2025-01-30", "isOffDay": true },
+		{ "name": "Thaipusam", "date": "2025-02-11", "isOffDay": true },
+		{ "name": "Nuzul Al-Quran", "date": "2025-03-18", "isOffDay": true },
+		{ "name": "Hari Raya Aidilfitri", "date": "2025-03-31", "isOffDay": true },
+		{ "name": "Hari Raya Aidilfitri Holiday", "date": "2025-04-01", "isOffDay": true },
+		{ "name": "Labour Day", "date": "2025-05-01", "isOffDay": true },
+		{ "name": "Wesak Day", "date": "2025-05-12", "isOffDay": true },
+		{ "name": "Agong's Birthday", "date": "2025-06-02", "isOffDay": true },
+		{ "name": "Hari Raya Haji", "date": "2025-06-07", "isOffDay": true },
+		{ "name": "Awal Muharram", "date": "2025-06-27", "isOffDay": true },
+		{ "name": "Merdeka Day", "date": "2025-08-31", "isOffDay": true },
+		{ "name": "Replacement for Merdeka Day", "date": "2025-09-01", "isOffDay": true },
+		{ "name": "Prophet Muhammad's Birthday", "date": "2025-09-05", "isOffDay": true },
+		{ "name": "Malaysia Day", "date": "2025-09-16", "isOffDay": true },
+		{ "name": "Deepavali", "date": "2025-10-20", "isOffDay": true },
+		{ "name": "Sultan of Selangor's Birthday", "date": "2025-12-11", "isOffDay": true },
+		{ "name": "Christmas Day", "date": "2025-12-25", "isOffDay": true }
+	]
+}
