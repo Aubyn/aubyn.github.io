@@ -1,0 +1,1 @@
+import{l,a as e,c as i,aj as t}from"./chunks/framework.CyPZ6aEA.js";const A=JSON.parse('{"title":"均线","description":"","frontmatter":{},"headers":[],"relativePath":"trade/ma.md","filePath":"trade/ma.md"}'),o={name:"trade/ma.md"};function r(h,a,n,u,d,c){return e(),i("div",null,[...a[0]||(a[0]=[t("",16)])])}const M=l(o,[["render",r]]);export{A as __pageData,M as default};

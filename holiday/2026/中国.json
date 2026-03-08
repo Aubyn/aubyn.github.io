@@ -2,9 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/schema.json",
     "$id": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2026.json",
     "year": 2026,
-    "papers": [
-        "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm"
-    ],
+    "papers": ["https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm"],
     "days": [
         {
             "name": "元旦",
