@@ -1,1 +1,0 @@
-import{W as a}from"./theme.DeO8YmG6.js";import"./framework.CyPZ6aEA.js";class i extends a{async show(t){if(typeof document<"u"){let o=2e3;t.duration&&(o=t.duration==="long"?3500:2e3);const e=document.createElement("pwa-toast");e.duration=o,e.message=t.text,document.body.appendChild(e)}}}export{i as ToastWeb};
