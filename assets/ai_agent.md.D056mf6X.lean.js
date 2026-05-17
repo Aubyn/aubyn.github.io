@@ -1,0 +1,1 @@
+import{l as a,a as t,c as r,aj as n}from"./chunks/framework.CyPZ6aEA.js";const m=JSON.parse('{"title":"AI Agent","description":"","frontmatter":{},"headers":[],"relativePath":"ai/agent.md","filePath":"ai/agent.md"}'),i={name:"ai/agent.md"};function l(s,e,o,h,g,c){return t(),r("div",null,[...e[0]||(e[0]=[n("",7)])])}const b=a(i,[["render",l]]);export{m as __pageData,b as default};
