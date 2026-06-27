@@ -1,0 +1,1 @@
+import{l as e,a,c as t}from"./chunks/framework.C0d1FTMf.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ai/agent/reasonix.md","filePath":"ai/agent/reasonix.md"}'),n={name:"ai/agent/reasonix.md"};function r(o,s,i,c,p,d){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
