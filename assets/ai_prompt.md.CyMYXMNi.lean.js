@@ -1,0 +1,1 @@
+import{l as a,a as i,c as n,a6 as l}from"./chunks/framework.CVVsdWKy.js";const c=JSON.parse('{"title":"提示词","description":"","frontmatter":{},"headers":[],"relativePath":"ai/prompt.md","filePath":"ai/prompt.md"}'),e={name:"ai/prompt.md"};function t(p,s,h,k,d,r){return i(),n("div",null,[...s[0]||(s[0]=[l("",41)])])}const E=a(e,[["render",t]]);export{c as __pageData,E as default};
